@@ -112,7 +112,6 @@ body{
     .mhead{
         text-align: center;
         margin-bottom: 10px;
-        margin-top: -5px;
     }
     .input_btn{
         display: flex;
@@ -138,9 +137,8 @@ body{
     }
     .longgform2{
         width: 100%;
-        height: 75vh;
+        height: 70vh;
         padding: 10px 162px;
-        padding-bottom: 60px;
     }
     .longgform2 h4{
         margin-top: -70px;
@@ -155,10 +153,10 @@ body{
         flex-direction: column;
         justify-content:center;
         align-content: center;
-        margin-top: 40px;
+        margin-bottom: 35px;
     }
     .c1 label{
-        margin-bottom: 72px;
+        margin-bottom: 70px;
         font-size: 25px;
     }
 }
