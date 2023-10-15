@@ -31,8 +31,7 @@ function impostoj(){
             y = ((x - 50) * 0.013)
             z = (y * 3)
             g = (x * 0.14 * 20 / 100)
-            f = (x * 0.03)
-            tc = y + z + f
+            tc = y + z 
             m = tc+g;
             t = x - m;
             document.getElementById("normal").innerHTML=y;
