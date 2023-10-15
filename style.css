@@ -110,6 +110,7 @@ body{
 }
 @media only screen and (max-width:800px) {
     .mhead{
+        display: none;
         text-align: center;
         margin-bottom: 10px;
     }
@@ -118,6 +119,7 @@ body{
         flex-direction: column;
         padding: 15px 0px;
         margin-bottom: 15px;
+        margin-top: 25px;
     }
     .inputt{
         display: flex;
@@ -154,6 +156,7 @@ body{
         justify-content:center;
         align-content: center;
         margin-bottom: 35px;
+        margin-top: -5px;
     }
     .c1 label{
         margin-bottom: 70px;
