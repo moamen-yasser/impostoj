@@ -139,8 +139,8 @@ body{
     }
     .longgform2{
         width: 100%;
-        height: 70vh;
-        padding: 10px 162px;
+        height: 75vh;
+        padding: 0px 162px;
     }
     .longgform2 h4{
         margin-top: -70px;
@@ -155,9 +155,8 @@ body{
         flex-direction: column;
         justify-content:center;
         align-content: center;
-        margin-bottom: 35px;
-        margin-top: -5px;
-    }
+        margin: 18px 0;
+        }
     .c1 label{
         margin-bottom: 70px;
         font-size: 25px;
