@@ -139,8 +139,13 @@ body{
     }
     .longgform2{
         width: 100%;
+<<<<<<< HEAD
         height: 75vh;
         padding: 0px 162px;
+=======
+        height: 80vh;
+        padding: 10px 162px;
+>>>>>>> 3be12503c7bb2bad4ff7a9063a4324f4ced05f71
     }
     .longgform2 h4{
         margin-top: -70px;
@@ -154,9 +159,15 @@ body{
         display: flex;
         flex-direction: column;
         justify-content:center;
+<<<<<<< HEAD
         align-content: center;
         margin: 18px 0;
         }
+=======
+        align-content: flex-start;
+        margin-top:35px;
+    }
+>>>>>>> 3be12503c7bb2bad4ff7a9063a4324f4ced05f71
     .c1 label{
         margin-bottom: 70px;
         font-size: 25px;
