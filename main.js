@@ -41,7 +41,7 @@ function impostoj(){
             document.getElementById("totalof").innerHTML=tc;
             document.getElementById("must").innerHTML=t;
             document.getElementById("total").innerHTML=m;        }
-        else if(x >= 251 && x <= 500){
+        else if(x >= 301 && x <= 500){
             y = ((x - 50) * 0.013)
             z = (y * 3)
             g = (x * 0.14 * 20 / 100)
