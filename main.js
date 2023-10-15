@@ -1,6 +1,6 @@
 var btn=document.getElementById("btn");
 btn.addEventListener('click', function () {
-    int ();
+    impostoj ();
 });
 function impostoj(){
     let x;
