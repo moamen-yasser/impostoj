@@ -139,7 +139,7 @@ body{
     }
     .longgform2{
         width: 100%;
-        height: 73vh;
+        height: 80vh;
         padding: 10px 162px;
     }
     .longgform2 h4{
@@ -154,7 +154,7 @@ body{
         display: flex;
         flex-direction: column;
         justify-content:center;
-        align-content: center;
+        align-content: flex-start;
         margin-top:35px;
     }
     .c1 label{
